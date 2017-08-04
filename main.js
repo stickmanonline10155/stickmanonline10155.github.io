@@ -33,8 +33,8 @@ function nextPic() {
   name++;
   title.innerHTML = titles[index % titles.length];
   
-  //if(autoplay) {
-    //setTimeout(nextPic, 3000);
-  //}
+  if(autoplay) {
+    setTimeout(nextPic, 3000);
+  }
 }
 
