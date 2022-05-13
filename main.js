@@ -1,13 +1,13 @@
-var links = ["https://images2.alphacoders.com/165/thumb-1920-16590.jpg",
+var links = ["https://truth.bahamut.com.tw/s01/202111/5582b30853e5b530252b7cf9b61adbc3.JPG",
 
 "https://static1.squarespace.com/static/55de0d46e4b0dff050052f72/t/56c646c29f72661d8c50da5e/1455834820651/NovelBrewingCo_logo_final_whiteBkg_Black.png",
 
 "https://img.technews.tw/wp-content/uploads/2017/03/24101829/7270219_6d3f41bc71_b-e1490321917660.jpg",
 
-"https://lc-www-live-s.legocdn.com/r/www/r/catalogs/-/media/catalogs/games/star%20wars/images/lsw-the-new-yoda-chronicles_preview_744x421.jpg?l.r2=377395581",
-"https://i.ytimg.com/vi/R48Tl6n5PD4/hqdefault.jpg"]             
+"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Western_concert_flute_%28Yamaha%29.jpg/1200px-Western_concert_flute_%28Yamaha%29.jpg",
+"https://media.gq.com.tw/photos/6157f8961dbe40d77bd3a055/16:9/w_2560%2Cc_limit/GettyImages-1136354222.jpg"]             
 
-var titles = ["music", "novel", "GOchess", "game", "stickman fighter"]
+var titles = ["music", "novel", "GOchess", "flute", "podcast"]
 
 var index = 0;
 var autoplay = true;
