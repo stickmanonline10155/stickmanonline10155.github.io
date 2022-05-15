@@ -7,7 +7,7 @@ var links = ["https://truth.bahamut.com.tw/s01/202111/5582b30853e5b530252b7cf9b6
 "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Western_concert_flute_%28Yamaha%29.jpg/1200px-Western_concert_flute_%28Yamaha%29.jpg",
 "https://media.gq.com.tw/photos/6157f8961dbe40d77bd3a055/16:9/w_2560%2Cc_limit/GettyImages-1136354222.jpg"]             
 
-var titles = ["music", "novel", "GOchess", "flute", "podcast"]
+var titles = ["Music", "Novel", "GOchess", "Flute", "Podcast"]
 
 var index = 0;
 var autoplay = true;
